@@ -3,12 +3,13 @@ body {
   color: #120907;
   font-size: 15px;
   font-family: 'Lato', sans-serif;
+  background-size: auto;
 }
 .container {
   height: 525px;
   width: 360px;
   margin: 100px auto;
-  background-color: #5972c2;
+  background-color: white;
   border-radius: 20px;
 }
 .title {
@@ -20,6 +21,7 @@ body {
   font-size: 18px;
   font-weight: bold;
   text-align: center;
+  background-color:#314173; 
 }
 
 .tipsForm {
@@ -62,7 +64,7 @@ border: 3px solid #314173;
   height: 50px;
   font-size: 15px;
   color: #120907;
-
+  cursor: pointer;
 }
 
 #totalTip {
